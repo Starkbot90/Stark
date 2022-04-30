@@ -5,16 +5,16 @@
  </a>
 </p>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/880CEdp.jpeg" width="300" height="300"/>
+  <img border-radius: 15px src="20220428_130057.jpg" width="300" height="300"/>
   <p align="center">
 <a href="#"><img title="Rudhra" src="https://img.shields.io/badge/Rudhra-lime?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/prince-rudh"><img title="Author" src="https://img.shields.io/badge/Author-prince-rudh/Rudhra?color=lime&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Starkbot90"><img title="Author" src="https://img.shields.io/badge/Author-Starkbot90/Rudhra?color=lime&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/prince-rudh">Prince-Rudh</a> to make it public
+Project created by <a href="https://github.com/Starkbot90">Starkbot90</a> to make it public
     <br>
        | © |
         Reserved |
@@ -28,7 +28,7 @@ Project created by <a href="https://github.com/prince-rudh">Prince-Rudh</a> to m
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@PrinceRudh/Rudhra-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prince-rudh/Rudhra2.0)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Starkbot90/Stark)
      </div>
 <br>
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
@@ -45,9 +45,9 @@ bash <(curl -L https://t.ly/tHxh)
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/prince-rudh/Rudhra2.0/fork)
+ Click [FORK](https://github.com/Starkbot90/Stark/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/prince-rudh/Rudhra2.0 copy this url and change Prince-Rudh with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/Starkbot90/Stark copy this url and change Starkbot90 with your github username and click go<br>
 
 ----
 
@@ -61,13 +61,13 @@ bash <(curl -L https://t.ly/tHxh)
 </p>
 
   <p align="center">
-  <a href="httsp://github.com/prince-rudh/Rudhra2.0">
-    <img src="https://img.shields.io/github/repo-size/prince-rudh/Rudhra2.0?color=lime&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/Starkbot90/Stark">
+    <img src="https://img.shields.io/github/repo-size/Starkbot90/Stark?color=lime&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/prince-rudh/followers"><img title="Followers" src="https://img.shields.io/github/followers/PrinceRudh?color=lime&style=flat-square"></a>
-<a href="https://github.com/prince-rudh/Rudhra2.0/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/prince-rudh/Rudhra2.0?color=lime&style=flat-square"></a>
-<a href="https://github.com/prince-rudh/Rudhra2.0/network/members"><img title="Forks" src="https://img.shields.io/github/forks/prince-rudh/Rudhra2.0?color=lime&style=flat-square"></a>
-<a href="https://github.com/prince-rudh/Rudhra2.0/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/prince-rudh/Rudhra2.0?label=Watchers&color=lime&style=flat-square"></a>
+<a href="https://github.com/Starkbot90/followers"><img title="Followers" src="https://img.shields.io/github/followers/PrinceRudh?color=lime&style=flat-square"></a>
+<a href="https://github.com/Starkbot90/Stark/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Starkbot90/Stark?color=lime&style=flat-square"></a>
+<a href="https://github.com/Starkbot90/Stark/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Starkbot90/Stark?color=lime&style=flat-square"></a>
+<a href="https://github.com/Starkbot90/Stark/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Starkbot90/Stark?label=Watchers&color=lime&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-lime.svg"</a>
 </p>
 
@@ -86,7 +86,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/prince-rudh/Rudhra2.0
+$ git clone https://github.com/Starkbot90/Stark
 $ cd Rudhra
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -96,7 +96,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/prince-rudh/Rudhra2.0
+$ git clone https://github.com/Starkbot90/Stark
 $ cd Rudhra
 $ chmod +x *
 $ npm i
@@ -117,9 +117,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-  [![`Prince-Rudh`](https://github.com/prince-rudh.png?size=200)](https://github.com/prince-rudh)
+  [![`Starkbot90`](https://github.com/Starkbot90.png?size=200)](https://github.com/Starkbot90)
 
-[`Prince-Rudh`](https://github.com/prince-rudh)  
+[`Starkbot90`](https://github.com/Starkbot90)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
     
